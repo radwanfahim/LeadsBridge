@@ -191,7 +191,7 @@ body::before {
   display: inline-block;
 }
 
-/* ===== CTA Button (hero) ===== */
+/* ===== CTA Button ===== */
 .btn--hero {
   opacity: 0;
   transform: translateY(12px);
